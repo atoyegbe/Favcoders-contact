@@ -13,7 +13,7 @@
  <header>FAVCODERS</header>
 <h1>
 	
-	[count(contact)]<span>Contacts</span>
+	[count(contact)]<span>contacts</span>
 </h1>
 
 <details property="contact" typeof="Person" mv-multiple open>
