@@ -1,12 +1,12 @@
 @font-face {
   font-family: IcoMoon;
-  src: url("back.jpg") format("jpg"); }
+  src: url("fav.jpg") format("jpg"); }
 
 body {
   min-height: 100vh;
   box-sizing: border-box;
   padding: 1em;
-  background: url(favcode.png) #c4c1ba top fixed;
+  background: url(back.jpg) #c4c1ba top fixed;
   object-fit: cover;
   font: 120%/1.5 Helvetica Neue, sans-serif; }
 
